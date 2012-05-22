@@ -48,13 +48,13 @@ Unity 3D, available at http://unity3d.com. The indie version is the best game st
 
 Unity 3D uses UnityScript (aka Unity version of JavaScript) and C# Mono Scripts for it's engine, and supports various platforms. Currently, the Indie version of the engine exports games to Windows and Mac. Using Unity is a piece of cake, it's way better than learning how to code from stratch. You point and click, assign objects to scripts, drag scripts onto objects, etc.
 
-## Why we're not using CryEngine/Unreal Engine
+### Why we're not using CryEngine/Unreal Engine
 
 This has been asked many times before, and I hate having to repeat myself. The project developers feel more at home with Unity. While other engines are kickass and look super-duper, **they don't fit the purpose of the game's aim**. And plus, this project is already in development - we're not going to quit and port it over to something the devs don't understand. Once the project code is released, then be our guest and port it over to whatever engine that makes you drool. Good luck with that...
 
 Thank you for your attention.
 
-### Inspiration
+## Inspiration
 
 Illusion's eroge games fueled the urge to want to get out and make a game - not just sit in front of the PC, be part of a team that wants to show that indie developers can make a good eroge game!
 
