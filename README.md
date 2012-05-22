@@ -42,17 +42,52 @@ _Important Note: Please do not upload the game demos to any other file hosting w
 
 Old releases are available on the mirror.
 
-## Unity3D Background info
+## FAQ
 
-Unity 3D, available at http://unity3d.com. The indie version is the best game studio this side of one million bucks.
+### Where do I sign in?
 
-Unity 3D uses UnityScript (aka Unity version of JavaScript) and C# Mono Scripts for it's engine, and supports various platforms. Currently, the Indie version of the engine exports games to Windows and Mac. Using Unity is a piece of cake, it's way better than learning how to code from stratch. You point and click, assign objects to scripts, drag scripts onto objects, etc.
+Do it in the [main thread](http://www.hongfire.com/forum/showthread.php/369348). In your post include those points:
 
-### Why we're not using CryEngine/Unreal Engine
+-  Why do you want to help and how long do you expect to be in this project?
+-  What is your experience with programming, Unity and game development?
+-  What do you want to do? (inteface, models, maps etc.)
+-  If you can, post something you made or helped in making. 
 
-This has been asked many times before, and I hate having to repeat myself. The project developers feel more at home with Unity. While other engines are kickass and look super-duper, **they don't fit the purpose of the game's aim**. And plus, this project is already in development - we're not going to quit and port it over to something the devs don't understand. Once the project code is released, then be our guest and port it over to whatever engine that makes you drool. Good luck with that...
+### Why Unity Engine instead of xyz?
+Here is a list of reasons why unity is better than other engines:
 
-Thank you for your attention.
+-  Unity is very flexible, it can use a lot of different filetypes and do a lot of different things.
+-  It is made to be universal, engines like UDK3 or source are focused on blowing stuff up.
+-  It is fully free and without any content constrains.
+-  If you are new to game development Unity is a very good place to start.
+-  Multiplatform support! You can compile for Windows, MacOS, Linux, Android, iOS, web-browsers and god knows what else.
+-   Developers like it.
+
+
+Here is a list of reasons why we can't use that engine you talk about:
+
+-  Even if engine is free for non-commercial applications there is a good chance there are sexual content restrictions. Last thing we need is a cease-and-desist letter in final development stages.
+-  Most of those high-tech engines are optimized for a specific type of game. Ever wondered why all source games have similar menus and interface?
+-  Most of them are harder to develop on and project would take much longer to produce next versions.
+
+
+### If this project going to be fully open source?
+Yes, source tarballs will be available after each "major" milestone.
+
+### When the game is out in a playable form will I be able to contribute to the code?
+Yes. This is a future talk, probably you will have to create a new code branch with your modifications and post info about your work in a dev thread. If it's good it will be merged into the main branch. Don't blame me if I'm completely wrong.
+
+### Will it be easy to mod this game?
+Yes! Source will be available so even extreme changes to the game can be done easily. If your mod is good it might get merged into the project too! (at your permission of course)
+
+### I found this awesome tech demo, is this going to be included?
+Most likely no. Tech demos like nVidia's hair tessellation demo require immense amounts of power to run at barely fluid fps levels. One of the goals of this project is to run decently on most of Hongfire population's computers. Obviously quality levels will be adjustable so don't worry, support for slow hardware won't make the game ugly.
+
+### But models/maps/whatever in this game on that are looking beautiful!
+It's not engine that makes them look good, it's people who made those models! You'd be surprised what a few professional full-time developers could do in Unity.
+
+### Blender sucks.
+Not really a question, Blender is a very good (free) application but requires you to learn the interface first. Learning curve is very steep so it is NOT recommended for beginners! Some people hate it, some people love it - get over it.
 
 ## Inspiration
 
