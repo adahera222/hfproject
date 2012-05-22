@@ -36,7 +36,7 @@ In a nutshell, this project is a community ecchi game project that offers what t
 ## Project Releases
 
 -  Win32 refers to Windows 32Bit. Win64 refers to Windows 64Bit. Etc etc.
--  Most releases are available in my mirror: Click here.
+-  Most releases are available in my mirror: [Click here](http://cdn.coburndomain.net/EcchiProject/).
 
 _Important Note: Please do not upload the game demos to any other file hosting websites. It produces a headache on what version is the latest, etc. If you wish to upload it somewhere for your own forum/etc, please talk to me first._
 
