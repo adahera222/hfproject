@@ -14,6 +14,16 @@ This is a community hentai game project that aims to make a game that fills the 
 
 We're a indie game team and we've all helping each other here. Unity3D is the easiest engine (okay, maybe a little annoying at times) that we've played with - ask the other developers. Sure, it may not be so powerful like other engines, but we're all "at home" with the engine. And sometimes, GUI-based tools are better than writing lines of code in a console or text editor! Who knows, we might be able to get the limelight someday. If you want to contribute something, even if it's feedback, project support, ideas, models, sounds, etc... It's all welcome, and we'll try to use it in whatever way we can.
 
+### Inspiration
+
+Illusion's eroge games fueled the urge to want to get out and make a game - not just sit in front of the PC, be part of a team that wants to show that indie developers can make a good eroge game!
+
+Only thing with this project is that since it's a community effort, we'd have to try to keep costs down to a minimum. That means someone would have to devote time if they know Blender/Maya/3D Studio Max for modelling the characters, someone does the model texturing, etc. Someone will have to do the animation for the sex positions, etc.
+
+We've seen the likes of Daminz's 3D Realtime Pussy, so I thought "Why not make a cross-platform Hentai game?" I'm willing to do something, but without community support, it will most likely not take off from the ground. What are your thoughts? Should we team up and make a game, exclusive to HongFire and make Illusion jizz their pants at the same time?
+
+Suggestions/ideas are more than welcome. 
+
 ### Huh?
 
 In a nutshell, this project is a community ecchi game project that offers what the big name ecchi companies offer without the price tag. It's also cross-platform, we can compile builds for Mac OS X and Microsoft Windows (Native 32Bit & 64Bit). Maybe someday, even Linux (!) support...
@@ -88,17 +98,6 @@ It's not engine that makes them look good, it's people who made those models! Yo
 
 ### Blender sucks.
 Not really a question, Blender is a very good (free) application but requires you to learn the interface first. Learning curve is very steep so it is NOT recommended for beginners! Some people hate it, some people love it - get over it.
-
-## Inspiration
-
-Illusion's eroge games fueled the urge to want to get out and make a game - not just sit in front of the PC, be part of a team that wants to show that indie developers can make a good eroge game!
-
-Only thing with this project is that since it's a community effort, we'd have to try to keep costs down to a minimum. That means someone would have to devote time if they know Blender/Maya/3D Studio Max for modelling the characters, someone does the model texturing, etc. Someone will have to do the animation for the sex positions, etc.
-
-We've seen the likes of Daminz's 3D Realtime Pussy, so I thought "Why not make a cross-platform Hentai game?" I'm willing to do something, but without community support, it will most likely not take off from the ground. What are your thoughts? Should we team up and make a game, exclusive to HongFire and make Illusion jizz their pants at the same time?
-
-
-Suggestions/ideas are more than welcome. 
 
 ## Links
 
