@@ -7,7 +7,7 @@ using System.Collections;
 [RequireComponent (typeof (Rigidbody))]
 [RequireComponent (typeof (CapsuleCollider))]
 
-public class CharacterControls : MonoBehaviour {
+public class RigidBodyController : MonoBehaviour {
    
     public float speed = 10.0f;
     public float gravity = 10.0f;
